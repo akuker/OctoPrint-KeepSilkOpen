@@ -6,7 +6,7 @@ This plugin adds a background *silent* mp3 that plays in the background. This is
 
 For additional information, refer to https://gitlab.com/DaGammla/keep-silk-open
 
-Full credit goes to DaGammla for developing this functionality. I simply pulled it into an OctoPrint plugin. Go buy them a coffy! [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z7AO1BI)
+Full credit goes to DaGammla for developing this functionality. I simply pulled it into an OctoPrint plugin. Go buy them a coffee! [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z7AO1BI)
 
 ## Setup
 
