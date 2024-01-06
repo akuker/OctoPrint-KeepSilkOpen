@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_KeepSilkOpen/templates *
+recursive-include octoprint_KeepSilkOpen/translations *
+recursive-include octoprint_KeepSilkOpen/static *
