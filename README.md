@@ -1,4 +1,4 @@
-# OctoPrint-Keepsilkopen
+# OctoPrint-KeepSilkOpen
 
 The Echo Show family work great for monitoring an OctoPrint job, EXCEPT that the Silk browser will timeout after a few minutes and you'll need to re-open the browser.
 
